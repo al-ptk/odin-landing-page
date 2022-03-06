@@ -59,8 +59,18 @@ section {
     background-color: #1f2937;
     color: #f9faf8;
     display: flex;
-    padding: 20px;
+    padding: 50px;
+    gap: 20px;
     justify-content: space-evenly;
+}
+
+.hero-text>h1{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.hero-text>p{
+    font-size: 18px;
 }
 
 .hero-intro img {
